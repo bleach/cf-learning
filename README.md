@@ -20,6 +20,9 @@ directiion is discussed.
 
 ### Following individual teams
 
+The CF foundation [maintains a list of CF
+teams](https://docs.google.com/spreadsheets/d/1hg0EA3aB9wiCq8SgCU90ft4qrHvczsUjK0W_31APWxM/edit#gid=0).
+
 This is an *incomplete* list of CF teams, their trackers and roadmaps.
 
 | Team | Tracker | Roadmap | CI |
@@ -29,5 +32,6 @@ This is an *incomplete* list of CF teams, their trackers and roadmaps.
 | CLI | [CLI Public](https://www.pivotaltracker.com/n/projects/892938) | | |
 | Diego | [Diego Public](https://www.pivotaltracker.com/n/projects/1003146) | | https://diego.ci.cf-app.com/ | 
 | Garden | [Garden Public](https://www.pivotaltracker.com/n/projects/1158420) | | https://garden.ci.cf-app.com/ |
+| Routing | [CF Routing](https://www.pivotaltracker.com/n/projects/1358110) | | |
 | UAA | [UAA Public](https://www.pivotaltracker.com/n/projects/997278) | | |
 
