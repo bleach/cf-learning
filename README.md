@@ -23,10 +23,11 @@ directiion is discussed.
 This is an *incomplete* list of CF teams, their trackers and roadmaps.
 
 | Team | Tracker | Roadmap | CI |
-| BOSH | [Core](https://www.pivotaltracker.com/n/projects/956238) [CPI](https://www.pivotaltracker.com/n/projects/1133984) | https://github.com/cloudfoundry/bosh-notes | |
-| CAPI (CF API) | https://www.pivotaltracker.com/n/projects/966314 | | 
-| CLI | https://www.pivotaltracker.com/n/projects/892938 | |
-| Diego | https://www.pivotaltracker.com/n/projects/1003146 | | https://diego.ci.cf-app.com/ | 
-| Garden | https://www.pivotaltracker.com/n/projects/1158420 | | https://garden.ci.cf-app.com/ |
-| UAA | https://www.pivotaltracker.com/n/projects/997278 | | |
+| ---- | ------- | ------- | --- |
+| BOSH | [Core](https://www.pivotaltracker.com/n/projects/956238) [CPI](https://www.pivotaltracker.com/n/projects/1133984) | [BOSH notes](https://github.com/cloudfoundry/bosh-notes) | |
+| CAPI (CF API) | [CAPI Public](https://www.pivotaltracker.com/n/projects/966314) | | | 
+| CLI | [CLI Public](https://www.pivotaltracker.com/n/projects/892938) | | |
+| Diego | [Diego Public](https://www.pivotaltracker.com/n/projects/1003146) | | https://diego.ci.cf-app.com/ | 
+| Garden | [Garden Public](https://www.pivotaltracker.com/n/projects/1158420) | | https://garden.ci.cf-app.com/ |
+| UAA | [UAA Public](https://www.pivotaltracker.com/n/projects/997278) | | |
 
