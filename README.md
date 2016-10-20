@@ -24,7 +24,7 @@ This is an *incomplete* list of CF teams, their trackers and roadmaps.
 
 | Team | Tracker | Roadmap | CI |
 | ---- | ------- | ------- | --- |
-| BOSH | [Core](https://www.pivotaltracker.com/n/projects/956238) [CPI](https://www.pivotaltracker.com/n/projects/1133984) | [BOSH notes](https://github.com/cloudfoundry/bosh-notes) | |
+| BOSH | [Core](https://www.pivotaltracker.com/n/projects/956238) [CPI](https://www.pivotaltracker.com/n/projects/1133984) | [BOSH notes](https://github.com/cloudfoundry/bosh-notes) | https://main.bosh-ci.cf-app.com/ |
 | CAPI (CF API) | [CAPI Public](https://www.pivotaltracker.com/n/projects/966314) | | | 
 | CLI | [CLI Public](https://www.pivotaltracker.com/n/projects/892938) | | |
 | Diego | [Diego Public](https://www.pivotaltracker.com/n/projects/1003146) | | https://diego.ci.cf-app.com/ | 
