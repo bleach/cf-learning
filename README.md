@@ -23,6 +23,8 @@ directiion is discussed.
 The CF foundation [maintains a list of CF
 teams](https://docs.google.com/spreadsheets/d/1hg0EA3aB9wiCq8SgCU90ft4qrHvczsUjK0W_31APWxM/edit#gid=0).
 
+The sidebar on the [CF community wiki](https://github.com/cloudfoundry-community/cf-docs-contrib/wiki) has a list of trackers. 
+
 This is an *incomplete* list of CF teams, their trackers and roadmaps.
 
 | Team | Tracker | Roadmap | CI |
